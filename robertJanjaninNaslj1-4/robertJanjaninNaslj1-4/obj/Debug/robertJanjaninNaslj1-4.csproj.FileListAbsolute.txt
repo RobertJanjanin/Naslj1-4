@@ -1,0 +1,7 @@
+C:\Users\4.D\source\repos\robertJanjaninNaslj1-4\robertJanjaninNaslj1-4\bin\Debug\robertJanjaninNaslj1-4.exe.config
+C:\Users\4.D\source\repos\robertJanjaninNaslj1-4\robertJanjaninNaslj1-4\bin\Debug\robertJanjaninNaslj1-4.exe
+C:\Users\4.D\source\repos\robertJanjaninNaslj1-4\robertJanjaninNaslj1-4\bin\Debug\robertJanjaninNaslj1-4.pdb
+C:\Users\4.D\source\repos\robertJanjaninNaslj1-4\robertJanjaninNaslj1-4\obj\Debug\robertJanjaninNaslj1-4.csprojAssemblyReference.cache
+C:\Users\4.D\source\repos\robertJanjaninNaslj1-4\robertJanjaninNaslj1-4\obj\Debug\robertJanjaninNaslj1-4.csproj.CoreCompileInputs.cache
+C:\Users\4.D\source\repos\robertJanjaninNaslj1-4\robertJanjaninNaslj1-4\obj\Debug\robertJanjaninNaslj1-4.exe
+C:\Users\4.D\source\repos\robertJanjaninNaslj1-4\robertJanjaninNaslj1-4\obj\Debug\robertJanjaninNaslj1-4.pdb
